@@ -1,7 +1,13 @@
 # GP-Developers
 
+This repository is a collection of scripts for students in the P-students at OECU. However, it is also available for use by students at other universities or　other OECU students who use the same tools. Our goal is to help university students graduate more easily.
+
+If you would like to collaborate with us, please contact us.  
+
+We welcome you.
+
 ## Collaborators
-- INSANE
+- INSANE : Admin of this repository
 - BABANA
 
 ## Scripts For MyPortal
