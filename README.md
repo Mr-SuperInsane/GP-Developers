@@ -1,2 +1,5 @@
 # GP-Developers
-OECU-GP専用スクリプト集
+
+## Collaborators
+- INSANE
+- BABANA
