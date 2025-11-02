@@ -24,3 +24,9 @@ This is an Android app for receiving notifications about Moodle assignments. Thi
 This app supports home screen widgets. After installing the app, we recommend placing a widget on your home screen.
 
 - MoodleNotification/MoodleNotification.apk : After downloading the APK file, please install it. When installing this app, a warning may appear; please allow it.
+
+## Scripts For Moodle
+
+You can use “loginToMoodle.py” to develop any tools or services related to Moodle.
+
+- loginToMoodle.py : This is a script for automatically logging into Moodle (+ get your homework). This script uses your student ID and password required for Moodle login to obtain cookie information. Then, you can create a script to retrieve information from any Moodle page.
