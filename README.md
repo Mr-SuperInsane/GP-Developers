@@ -16,3 +16,11 @@ This is a script for MyPortal. To access it, open "MyPortal/". All files are sta
 
 - attend.py : This is a script for you or your friends to register a code for your own attendance.
 - getAbsentePresent.py : This is a script for retrieving attendance records for each class.
+
+## Moodle Notification for Android app
+
+This is an Android app for receiving notifications about Moodle assignments. This app was created by Babana-168 using Kotlin. You can install this app. You can also modify its source code.
+
+This app supports home screen widgets. After installing the app, we recommend placing a widget on your home screen.
+
+- MoodleNotification/MoodleNotification.apk : After downloading the APK file, please install it. When installing this app, a warning may appear; please allow it.
