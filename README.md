@@ -1,3 +1,5 @@
+![](https://github.com/Mr-SuperInsane/GP-Developers/blob/main/img/gb-banner.png)
+
 # GP-Developers
 
 This repository is a collection of scripts for students in the P-students at OECU. However, it is also available for use by students at other universities or　other OECU students who use the same tools. Our goal is to help university students graduate more easily.
